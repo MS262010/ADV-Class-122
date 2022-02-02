@@ -1,0 +1,23 @@
+body
+{
+	text-align: center;
+	background-image: url("https://i.postimg.cc/P5ztxpZF/t3NdmD.png");
+	background-size: cover;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+	margin-right: 20px;
+	font-family: 'Short Stack', cursive;
+}
+canvas
+{
+	background: rgb(245, 191, 13);
+	border-radius: 20px;
+}
+
+h2{
+	color: white;
+	font-family: 'Supermercado One', cursive;
+}
